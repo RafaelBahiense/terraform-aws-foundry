@@ -1,0 +1,13 @@
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
+local/*
+.DS_Store
+runner
+.terraform.lock.hcl
+*.pem
+*.jar
+*.json*
+user_data_generated.sh
+
